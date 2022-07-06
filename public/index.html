@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 Devs Assignments API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <h1>100 Devs Assignments API</h1>
+        <p>A simple API for locating 100 Devs assignments through an easily
+        accessible API</p>
+      </header>
+    
+      <main>
+        <div id="container">
+          <div id="apiBox">
+            <div id="try">
+              <h2>Give it a try!</h2>
+              <p>Use /homework endpoint with class number, for example to get homework for class 19</p>
+              <label>url/homework/</label>
+              <input id="classInput" placeholder="19">
+              <button>Submit</button>
+            </div>
+            <h4>Example Resource for class 19</h4>
+            <pre id="example" class="pre-scrollable">
+              "19": {
+                "read": {
+                  "1" :"https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md",
+                  "2" : "https://javascript.info/array-methods",
+                  "3" : "https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md",
+                  "4" : "https://eloquentjavascript.net/04_data.html"},
+                "do": {
+                  "1" : "Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!",
+                  "2" : "https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)"}
+              }
+            </pre>
+          </div>
+        </div>
+      </main>
+    <script src="app.js"></script>
+</body>
+</html>

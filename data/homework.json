@@ -1,0 +1,157 @@
+{
+    "1": {
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=ukLnPbIffxE",
+            "2": "https://www.youtube.com/watch?v=Z-zNHHpXoMM"
+        },
+        "complete": "https://www.coursera.org/learn/learning-how-to-learn"
+    },
+    "2": {
+        "read": "https://learn.shayhowe.com/html-css/",
+        "build": "HTML for BBC Website (just what is in the attached image)" ,
+        "use": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    "3": {
+        "read": "https://learnlayout.com/",
+        "finish": "Labs From Class-03 - BBC, Khan Academy, Tech Crunch"
+    },
+    "4": {
+        "do": {
+            "1": "Finish Simple Site Lab from class-04 (HTML & CSS)",
+            "2": "https://www.typingtest.com/  (five minute test)",
+            "3": "practice typing https://www.keybr.com/"
+        },
+        "read": "https://learnlayout.com/"
+    },
+    "5": {
+        "do": {
+            "1": "finish class 4 assignments",
+            "2": "Complete The Three Layouts (last few slides)"
+        },
+        "read": "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/"
+    },
+    "6": {
+        "do": {
+            "1": "Make 15 minutes of pain responsive",
+            "2": "Practice Typing - https://www.keybr.com/"
+        },
+        "read": {
+            "1": "http://learnlayout.com/",
+            "2": "https://learn.shayhowe.com/advanced-html-css/"
+        }
+    },
+    "7": {
+        "read": "css-tricks.com/snippets/css/a-guide-to-flexbox",
+        "do": "http://flexboxfroggy.com/",
+        "watch": "Independence Day"
+    },
+    "8": {
+        "do": {
+            "1": "The 3 layouts we did in class",
+            "2": "The Level Ground & Source Layouts in the homework-layout-photos"
+        }, 
+        "push": "Do Pushwork Homepage and add media queries to other layouts"
+    },
+    "9": {
+        "do": {
+            "1": "The 3 layouts we did in class",
+            "2": "The Level Ground & Source Layouts in the homework-layout-photos"
+        }, 
+        "push": "Do Pushwork Homepage and add media queries to other layouts"
+    },
+    "10": {
+        "do": {
+            "1": "The 3 layouts we did in class",
+            "2": "The Level Ground,  Source, Restaurant, Hair Salon Layouts in the homework-layout-photos"
+        }, 
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+            "2": "Independence Day"
+        },
+        "push": "Do Pushwork Homepage and add media queries to other layouts"
+    },
+    "11": {
+        "do": {
+            "1": "The 3 layouts we did in class",
+            "2": "The Level Ground,  Source, Restaurant, Hair Salon Layouts in the homework-layout-photos"
+        }, 
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+            "2": "Independence Day"
+        },
+        "push": "Do Pushwork Homepage and add media queries to other layouts"
+    },
+    "12": {
+        "do": {
+            "1": "Plan out your networking!",
+            "2": "Delete the JS and do it again for all assignments",
+            "3": "Something special for yourself this weekend"
+        },
+        "read": {
+            "1": "https://javascript.info/variables + Tasks",
+            "2": "https://javascript.info/function-basics + Tasks"
+        }
+    },
+    "13": {
+        "do": {
+            "1": "NETWORK!",
+            "2": "Delete the JS and do it again for all assignments"
+        },
+        "read": {
+            "1": "https://javascript.info/function-expressions + Tasks",
+            "2": "https://javascript.info/arrow-functions-basics + Tasks",
+            "3": ":https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md"
+        }
+    },
+    "14": {
+        "do": "comment out your JS type it all out again without looking, repeat until you do not have to peak. Delete your JS entirely, and do it again, then do it again but change something"
+    },
+    "15": {
+        "do": {
+            "1": "setup your portfolio",
+            "2": "Draft your proposal / contract"}
+    },
+    "16": {
+        "read": {
+            "1": "https://www.poetryfoundation.org/poems/51642/invictus",
+            "2": "https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)",
+            "3": "http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)"},
+        "do": "https://www.codecademy.com/learn/introduction-to-javascript (1-6)",
+        "watch": "https://youtu.be/SWYqp7iY_Tc",
+        "extra reading": "https://jwiegley.github.io/git-from-the-bottom-up/"
+    },
+    "17": {
+        "read": {
+            "1": "https://www.poetryfoundation.org/poems/51642/invictus",
+            "2": "https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)",
+            "3": "http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)"},
+        "do": "https://www.codecademy.com/learn/introduction-to-javascript (1-6)",
+        "watch": "https://youtu.be/SWYqp7iY_Tc",
+        "extra reading": "https://jwiegley.github.io/git-from-the-bottom-up/"
+    },
+    "18": {
+        "do": {
+            "1": "Draft of your portfolio",
+            "2": "Draft of your proposal / contract",
+            "3": "https://www.codecademy.com/learn/introduction-to-javascript (1-6)"},
+        "read": {
+            "1": "https://www.poetryfoundation.org/poems/51642/invictus",
+            "2": "https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)",
+            "3": "http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)"},
+        "watch": "https://youtu.be/SWYqp7iY_Tc",
+        "extra reading": "https://jwiegley.github.io/git-from-the-bottom-up/"
+    },
+    "19": {
+        "read": {
+            "1" :"https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md",
+            "2" : "https://javascript.info/array-methods",
+            "3" : "https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md",
+            "4" : "https://eloquentjavascript.net/04_data.html"},
+        "do": {
+            "1" : "Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!",
+            "2" : "https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)"}
+    },
+    "unknown": {
+        "unknown": "unknown"
+    }
+}
