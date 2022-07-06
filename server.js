@@ -24,4 +24,4 @@ const routes = require("./routes/routes.js")(app, fs)
 
 
 // listen on port 8000
-app.listen(PORT)
+app.listen(process.env.PORT || PORT)
