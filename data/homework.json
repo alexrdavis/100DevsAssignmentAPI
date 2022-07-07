@@ -187,6 +187,153 @@
                 "2": "Complete and Submit this project: https://github.com/leonnoel/100devs-calculator"}
             }
     },
+    "23": {
+        "watch": {
+            "1": "https://youtu.be/PFmuCDHHpwk",
+            "2": "https://youtu.be/0fKg7e37bQE​"
+        },
+        "do": {
+            "1": "https://aka.ms/learnwithleon (Intro. To Github)"
+        },
+        "push": {
+            "read": {
+                "1" : "https://javascript.info/ Whole Chapter - Objects: The basics",
+                "2" : "Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219"},
+            "do": {
+                "1": "All the tasks from javascript.info Chapter Objects: The Basics",
+                "2": "Complete and Submit this project: https://github.com/leonnoel/100devs-calculator"}
+            }
+    },
+    "24": {
+        "do": {
+            "1": "https://aka.ms/learnwithleon (Intro. To Github)"
+        },
+        "push": {
+            "read": {
+                "1" : "https://javascript.info/ Whole Chapter - Objects: The basics",
+                "2" : "Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219"},
+            "do": {
+                "1": "All the tasks from javascript.info Chapter Objects: The Basics",
+                "2": "Complete and Submit this project: https://github.com/leonnoel/100devs-calculator"}
+            }
+    },
+    "25": {
+        "watch": {
+            "1": "https://youtu.be/PFmuCDHHpwk",
+            "2": "https://youtu.be/0fKg7e37bQE​"
+        },
+        "do": {
+            "1": "https://aka.ms/learnwithleon (Intro. To Github)"
+        },
+        "push": {
+            "read": {
+                "1" : "https://javascript.info/ Whole Chapter - Objects: The basics",
+                "2" : "Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219"},
+            "do": {
+                "1": "All the tasks from javascript.info Chapter Objects: The Basics",
+                "2": "Complete and Submit this project: https://github.com/leonnoel/100devs-calculator"}
+            }
+    },
+    "26": {
+        "do": {
+            "1": "Make the cocktailDB api work with spaces between the names!",
+            "2": "Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis)",
+            "3": "Codewars Daily!",
+            "4": "Anki Daily!"
+        },
+        "push": {
+            "do": {
+                "1": "Make a rotating list of drinks (an automatic carousel) from the cocktailDB",
+                "2": "Make the NASA API handle all the data types including video",
+                "3": "Add an API to your portfolio website",
+                "4": "A 7kyu Codewars"}
+            }
+    },
+    "27": {
+        "do": {
+            "1": "Make the cocktailDB api work with spaces between the names!",
+            "2": "Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis)",
+            "3": "Codewars Daily!",
+            "4": "Anki Daily!"
+        },
+        "push": {
+            "do": {
+                "1": "Make a rotating list of drinks (an automatic carousel) from the cocktailDB",
+                "2": "Make the NASA API handle all the data types including video",
+                "3": "Add an API to your portfolio website",
+                "4": "A 7kyu Codewars"}
+            }
+    },
+    "28": {
+        "do": {
+            "1": "Catch Up",
+            "2": "Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours)",
+            "3": "Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg"
+        }
+    },
+    "29": {
+        "watch": {
+            "1": "https://youtu.be/PFmuCDHHpwk"
+        },
+        "read": {
+            "1": "JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md"
+        },
+        "do": {
+            "1": "https://youtu.be/PFmuCDHHpwk follow along, task at end",
+            "2": "https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md follow along, task at end",
+            "3": "7 Codewars",
+            "4": "FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg"
+        },
+        "push": {
+            "read": {
+                "1": "Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html"
+            },
+            "do": {
+                "1": "Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html follow along, exercise at end"}
+            }
+    },
+    "30": {
+        "watch": {
+            "1": "https://youtu.be/PFmuCDHHpwk"
+        },
+        "read": {
+            "1": "JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md"
+        },
+        "do": {
+            "1": "https://youtu.be/PFmuCDHHpwk follow along, task at end",
+            "2": "https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md follow along, task at end",
+            "3": "7 Codewars",
+            "4": "FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg"
+        },
+        "push": {
+            "read": {
+                "1": "Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html"
+            },
+            "do": {
+                "1": "Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html follow along, exercise at end"}
+            }
+    },
+    "31": {
+        "do": {
+            "1": "Please review, play, and break the code we go over tonight. Get lost in it, come with questions, and ready to review on Thursday.",
+            "2": "Get a paid client, Volunteer, or Contribute To Free Software",
+            "3": "FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg"
+        },
+        "push": {
+            "do": {
+                "1": "Codewars Array Ladder (search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu"}
+            }
+    },
+    "32": {
+        "do": {
+            "1": "Finish Team Project",
+            "2": "FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg"
+        },
+        "push": {
+            "do": {
+                "1": "Codewars String Ladder (search string problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu"}
+            }
+    },
     "unknown": {
         "unknown": "unknown"
     }
