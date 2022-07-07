@@ -1,11 +1,11 @@
 ## 100DevsAssignmentAPI
- A simple API for accessing 100 Devs assignments easier.
+ A simple API for accessing 100 Devs assignments easier. Updated to class 32.
  
 ## Working Demo
  https://simple-100devs-assignment-api.herokuapp.com/
 
 ## How to use
-Enter class number to get a list of assignments due from that class - assignments will be seperated by "watch", "read", and "do"
+Enter class number to get a list of assignments due from that class - assignments will be seperated by "watch", "read", "do", and "push"
 If an assignment is repeated, this means it was assigned for both classes
 
 ## Using the API
