@@ -151,6 +151,42 @@
             "1" : "Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!",
             "2" : "https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)"}
     },
+    "20": {
+        "read": {
+            "1" :"https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md",
+            "2" : "https://javascript.info/array-methods",
+            "3" : "https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md",
+            "4" : "https://eloquentjavascript.net/04_data.html"},
+        "do": {
+            "1" : "Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!",
+            "2" : "https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)"}
+    },
+    "21": {
+        "read": {
+            "1" : "https://javascript.info/array-methods",
+            "2" : "https://javascript.info/object"},
+        "do": {
+            "1": "All the tasks from javascript.info/object",
+            "2": " https://javascript30.com/ Day 04 Array Cardio (PLEASE DO IT AGAIN)",
+            "3" : "Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!"}
+    },
+    "22": {
+        "watch": {
+            "1": "https://youtu.be/PFmuCDHHpwk",
+            "2": "https://youtu.be/0fKg7e37bQE​"
+        },
+        "do": {
+            "1": "https://aka.ms/learnwithleon (Intro. To Github)"
+        },
+        "push": {
+            "read": {
+                "1" : "https://javascript.info/ Whole Chapter - Objects: The basics",
+                "2" : "Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219"},
+            "do": {
+                "1": "All the tasks from javascript.info Chapter Objects: The Basics",
+                "2": "Complete and Submit this project: https://github.com/leonnoel/100devs-calculator"}
+            }
+    },
     "unknown": {
         "unknown": "unknown"
     }
