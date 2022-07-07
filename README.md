@@ -1,5 +1,5 @@
 ## 100DevsAssignmentAPI
- A simple API for accessing 100 Devs assignments easier. Updated to class 32.
+ A simple API for accessing 100 Devs assignments easier. Updated to class 41.
  
 ## Working Demo
  https://simple-100devs-assignment-api.herokuapp.com/
