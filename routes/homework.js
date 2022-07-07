@@ -35,6 +35,22 @@ const homeworkRoutes = (app, fs) => {
 
         }, true)
     })
+
+    // nested call to task type (do, watch, read, push)
+    app.get("/homework/:name/:task", (req, res) => {
+        readFile(data => {
+            const classNumber = req.params.name;
+            const taskType = req.params.task;
+            const dataClass = data[classNumber]
+
+            if(dataClass[taskType]) {
+                res.json(dataClass[taskType])
+            } else {
+                res.json(data["unknown"])
+            }
+
+        }, true)
+    })    
 }
 
 
