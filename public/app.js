@@ -4,5 +4,5 @@ btn.addEventListener("click", btnFunc);
 
 function btnFunc() {
     let classInput = document.querySelector("#classInput").value
-    window.open(`process.env.PORT/${classInput}`)
+    window.open(`https://simple-100devs-assignment-api.herokuapp.com/homework/${classInput}`)
 }
