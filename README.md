@@ -14,11 +14,11 @@ To get a specific task grouping, you can add "/task" to the field. Example: "19/
 ![image](https://user-images.githubusercontent.com/44350021/177889336-666a0c08-86e2-4363-bfdf-9da93a648784.png)
 
 ## Using the API
-API endpoint is _/homework_ 
-  * Example "https://simple-100devs-assignment-api.herokuapp.com/homework" will retrieve all assignments
+API endpoint is _/homework_ will return all assignments and classes
+  * Example "https://simple-100devs-assignment-api.herokuapp.com/homework"
 
-_/homework/classnumber_ returns assignments for that class number
-  * Example "https://simple-100devs-assignment-api.herokuapp.com/homework/19" will call to class 19
+_/homework/classnumber_ returns assignments for that class 
+  * Example "https://simple-100devs-assignment-api.herokuapp.com/homework/19"
 
-_/homework/classnumber/task_ returns assignments for that class number and task group
+_/homework/classnumber/task_ returns assignments for that task within the class 
   * Example "https://simple-100devs-assignment-api.herokuapp.com/homework/19/do"
