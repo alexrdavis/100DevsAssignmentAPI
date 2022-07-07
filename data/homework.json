@@ -334,6 +334,135 @@
                 "1": "Codewars String Ladder (search string problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu"}
             }
     },
+    "33": {
+        "read": {
+            "1": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await type out all examples"
+        },
+        "watch": {
+            "1": "https://youtu.be/vn3tm0quoqE type out all examples"
+        },
+        "push": {
+            "read": {
+                "1": "https://javascript.info/async"
+            },
+            "do": {
+                "1": "all tasks https://javascript.info/async"
+            }
+        }
+    },
+    "34": {
+        "read": {
+            "1": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await type out all examples",
+            "2": "Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70"
+        },
+        "watch": {
+            "1": "https://youtu.be/vn3tm0quoqE type out all examples",
+            "2": "Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4"
+        },
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links"
+        },
+        "push": {
+            "read": {
+                "1": "https://javascript.info/async"
+            },
+            "do": {
+                "1": "all tasks https://javascript.info/async"
+            }
+        }
+    },
+    "35": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Make node-backend-simple-json more readable",
+            "4": "Make a coinflip game where the randomization happens server side"
+        }
+    },
+    "36": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Make node-backend-simple-json more readable",
+            "4": "Make a coinflip game where the randomization happens server side",
+            "5": "https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)"
+        },
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+            "2": "https://www.youtube.com/watch?v=cCOL7MC4Pl0"
+        }
+
+    },
+    "37": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Make node-backend-simple-json more readable",
+            "4": "Make a coinflip game where the randomization happens server side",
+            "5": "https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)"
+        },
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+            "2": "https://www.youtube.com/watch?v=cCOL7MC4Pl0"
+        }
+
+    },
+    "38": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Make node-backend-simple-json more readable",
+            "4": "Make a coinflip game where the randomization happens server side",
+            "5": "https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)",
+            "6": "Create Heroku, Mongo Atlas, and Postman Accounts",
+            "7": "Make Your Own API and Push To Heroku"
+        },
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+            "2": "https://www.youtube.com/watch?v=cCOL7MC4Pl0"
+        },
+        "read": {
+            "1": "Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)"
+        }
+
+    },
+    "39": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Create Heroku, Mongo Atlas, and Postman Accounts",
+            "4": "Make Your Own API and Push To Heroku",
+            "5": "Play With: Our Code From Today"
+        },
+        "read": {
+            "1": "Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)"
+        }
+    },
+    "40": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Create Heroku, Mongo Atlas, and Postman Accounts",
+            "4": "Make Your Own APP and Push To Heroku"
+        },
+        "read": {
+            "1": "Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)",
+            "2": "https://zellwk.com/blog/crud-express-mongodb"
+        }
+    },
+    "41": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Create Heroku, Mongo Atlas, and Postman Accounts",
+            "4": "Make Your Own APP and Push To Heroku"
+        },
+        "read": {
+            "1": "Node.js and Express (Fullstack Open - https://fullstackopen.com/en/part3/node_js_and_express)",
+            "2": "https://zellwk.com/blog/crud-express-mongodb"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
