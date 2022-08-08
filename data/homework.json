@@ -463,6 +463,26 @@
             "2": "https://zellwk.com/blog/crud-express-mongodb"
         }
     },
+    "42": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8)",
+            "3": "Create Heroku, Mongo Atlas, and Postman Accounts",
+            "4": "Make Your Own APP and Push To Heroku"
+        },
+        "read": {
+            "1": "https://zellwk.com/blog/crud-express-mongodb"
+        }
+    },
+    "43": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Comment the Todolist"
+        },
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
