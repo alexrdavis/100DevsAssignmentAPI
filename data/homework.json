@@ -483,6 +483,29 @@
             "1": "https://youtu.be/SBvmnHTQIPY just get through it"
         }
     },
+    "44": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Comment the Todolist"
+        },
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it",
+            "2": "https://www.youtube.com/watch?v=1IsL6g2ixak DevMarketer's MVC video" 
+        }
+    },
+    "45": {
+        "do": {
+            "1": "Start prepping THE BANK",
+            "2": "Comment the Todolist"
+        },
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it",
+            "2": "https://www.youtube.com/watch?v=1IsL6g2ixak DevMarketer's MVC video" 
+        },
+        "push": {
+            "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
