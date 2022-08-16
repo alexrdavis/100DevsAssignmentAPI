@@ -506,6 +506,17 @@
             "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
         }
     },
+    "46": {
+        "do": {
+            "1": "Build a MVC lecture"
+        },
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it"
+        },
+        "push": {
+            "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
