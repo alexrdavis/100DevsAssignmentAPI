@@ -2,7 +2,7 @@
 100Devs is an agency with a free training program to help software developers. The training program is lead by Leon Noel [@leonnoel](https://twitter.com/leonnoel), this API is not an official 100Devs API and is made simply to help new trainees locate old assignments easier. Trainees are welcome to create their own applications using this API, or use it as a resource for assignments.
 
 ## 100Devs Assignment API
-A simple API for locating 100 Devs assignments through an easily accessible API. Updated to class 45.
+A simple API for locating 100 Devs assignments through an easily accessible API. Updated to class 46.
 
 ![image](https://user-images.githubusercontent.com/44350021/177888333-15bf6a5e-5421-43a4-a025-d4f94be791f4.png)
  
