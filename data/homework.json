@@ -517,6 +517,62 @@
             "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
         }
     },
+    "47": {
+        "do": {
+            "1": "Build a MVC lecture"
+        },
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it"
+        },
+        "push": {
+            "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
+        }
+    },
+    "48": {
+        "watch": {
+            "1": "https://youtu.be/SBvmnHTQIPY just get through it"
+        },
+        "push": {
+            "1": "Take a peek https://github.com/100devs/todo-mvc-auth-local"
+        }
+    },
+    "49": {
+        "do": {
+            "1": "Add string methods to Anki",
+            "2": "Due 5 codewars (tagged as strings)",
+            "3": "Push everyday"
+        },
+        "read": {
+            "1": "https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
+    "50": {
+        "do": {
+            "1": "Add string methods to Anki, review",
+            "2": "Due 5 codewars (tagged as strings) redo",
+            "3": "Push everyday",
+            "4": "1 coffee chat / 3 connections",
+            "5": "Start team project"
+        },
+        "read": {
+            "1": "https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
+    "51": {
+        "do": {
+            "1": "Add string methods to Anki",
+            "2": "Due 5 codewars (tagged as strings), redo again",
+            "3": "Push everyday",
+            "4": "1 coffee chat / 3 connections",
+            "5": "Work on team project"
+        },
+        "read": {
+            "1": "https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
