@@ -573,6 +573,37 @@
             "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
         }
     },
+    "52": {
+        "do": {
+            "1": "Add array methods to Anki",
+            "2": "Due 5 codewars (tagged as arrays)",
+            "3": "Push code everyday",
+            "4": "1 coffee chat / 3 connections"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
+    "53": {
+        "do": {
+            "1": "Add array methods to Anki, review",
+            "2": "Due 5 codewars (tagged as arrays)",
+            "3": "Push code everyday",
+            "4": "1 coffee chat / 3 connections"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c",
+            "3": "https://javascript.info/array-methods"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
