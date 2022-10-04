@@ -604,6 +604,101 @@
             "3": "https://javascript.info/array-methods"
         }
     },
+    "54": {
+        "do": {
+            "1": "Add array methods to Anki, review",
+            "2": "Due 5 codewars (tagged as arrays)",
+            "3": "Push code everyday",
+            "4": "1 coffee chat / 3 connections"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c",
+            "3": "https://javascript.info/array-methods"
+        }
+    },
+    "55": {
+        "do": {
+            "1": "Add array methods to Anki, review",
+            "2": "Due 5 codewars (tagged as arrays)",
+            "3": "Push code everyday",
+            "4": "1 coffee chat / 3 connections"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c",
+            "3": "https://javascript.info/array-methods"
+        }
+    },
+    "56": {
+        "do": {
+            "1": "Add array methods to Anki, review",
+            "2": "Due 5 codewars (tagged as arrays)",
+            "3": "Push code everyday",
+            "4": "1 coffee chat / 3 connections"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c",
+            "3": "https://javascript.info/array-methods",
+            "4": "Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html"
+        }
+    },
+    "57": {
+        "do": {
+            "1": "Due 5 codewars (tagged as strings)",
+            "2": "Push code everyday",
+            "3": "1 coffee chat / 3 connections",
+            "4": "research string methods: charAt, charCodeAt, concat, includes, indexOf, match, repeat, replace, search, slice, split, substr, toLowerCase, toUpperCase, trim. Give a short description of what the method does, how it works, it's time complexity (if appropriate) and three exmaples of it in action!"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/",
+            "2": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c",
+            "3": "https://javascript.info/array-methods",
+            "4": "Read the React Docs (Main Concepts): https://reactjs.org/docs/hello-world.html"
+        }
+    },
+    "58": {
+        "do": {
+            "1": "Due 5 codewars (tagged as strings)",
+            "2": "Push code everyday",
+            "3": "1 coffee chat / 3 connections",
+            "4": "research string methods: charAt, charCodeAt, concat, includes, indexOf, match, repeat, replace, search, slice, split, substr, toLowerCase, toUpperCase, trim. Give a short description of what the method does, how it works, it's time complexity (if appropriate) and three exmaples of it in action!"
+        },
+        "watch": {
+            "1": "https://youtu.be/R8rmfD9Y5-c"
+        },
+        "read": {
+            "1": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
+    "59": {
+        "do": {
+            "1": "Due 5 codewars (tagged as strings)",
+            "2": "Push code everyday",
+            "3": "1 coffee chat / 3 connections",
+            "4": "research string methods: charAt, charCodeAt, concat, includes, indexOf, match, repeat, replace, search, slice, split, substr, toLowerCase, toUpperCase, trim. Give a short description of what the method does, how it works, it's time complexity (if appropriate) and three exmaples of it in action!",
+            "5": "https://egghead.io/courses/the-beginner-s-guide-to-react"
+        },
+        "watch": {
+            "1": "https://www.youtube.com/watch?v=w7ejDZ8SWv8"
+        },
+        "read": {
+            "1": "Study the bank  https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c"
+        }
+    },
     "unknown": {
         "unknown": "unknown"
     }
